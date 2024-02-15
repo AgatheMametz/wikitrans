@@ -26,7 +26,7 @@ Nous équipe du Wiki Trans sommes fier·es d'avoir contribué à notre façon à
 
 ## Où suis-je ?
 
-Vous êtes actuellement en train de visiter la version markdown du site, conçu pour être archivable facilement.
+Vous êtes actuellement en train de visiter la version markdown du site archivée en février 2024, conçu pour être archivable facilement. Elle n'est peut-être pas à jour si de nouvelles évolutions ont eu lieu sur le site Wordpress depuis.
 
 Depuis toujours le site est hébergé sur mon serveur mutualisé OVH, et malgré toutes les précautions prises pour éviter de perdre les données, je me sens plus rassurée maintenant que cette copie existe sur internet.
 
