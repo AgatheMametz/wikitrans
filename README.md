@@ -1,6 +1,4 @@
-Bonjour, ici Menica Folden, co-fondatrice du Wiki Trans !
-
-Je vous écris du futur, en 2024, 6 après la création du Wiki Trans en 2018. Cela fait plusieurs années que l'activité s'est beaucoup réduite sur le site, très peu d'articles sont sortis depuis 2022. Cependant, il continue d'être très visité, et les gens continuent de nous dire que les ressources qui y sont disponibles sont utiles, alors c'est tant mieux 😊
+![[logoTitre.png]]
 
 ## À propos du Wiki Trans
 
@@ -10,7 +8,15 @@ Le Wiki Trans a été lancé en 2018 suite au constat que très peu de ressource
 
 L’ambition du Wiki Trans est de réunir toutes les ressources nécessaires aux personnes trans afin de les rendre accessible à tous et toutes, à tout moment, en un seul endroit et de manière durable.
 
+URL du site : https://wikitrans.co/
+https://twitter.com/wiki_trans
+https://www.instagram.com/wikitrans.co/
+
 ## Le Wiki Trans en 2024
+
+Bonjour, ici Menica Folden, co-fondatrice du Wiki Trans !
+
+Je vous écris du futur, en 2024, 6 après la création du Wiki Trans en 2018. Cela fait plusieurs années que l'activité s'est beaucoup réduite sur le site, très peu d'articles sont sortis depuis 2022. Cependant, il continue d'être très visité, et les gens continuent de nous dire que les ressources qui y sont disponibles sont utiles, alors c'est tant mieux 😊
 
 La communauté trans a toujours fonctionné au bouche à oreille. Même avec les technologies numériques nous permettant la transmission facile des informations structurées et à grande échelle, nous préférons encore nous cacher à l'ombre dans les commentaires des vidéos TikTok et dans des channels Discord privés pour échanger sur nos parcours (et nos meilleures adresses d'endocrinologues et de psy safe).
 
@@ -30,6 +36,3 @@ La majorité des articles que vous pouvez lire ici ont été écrits entre 2018 
 
 CC BY-NC-SA 4.0 Deed
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
-
-Bien à vous
-Menica Folden

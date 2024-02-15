@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a005cec04946dbbc",
+        "id": "9a9e14bd2520e53f",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9141d0a7e9d3f2",
+            "id": "5e09e1cff2f30f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Read Me/Préambule au Wiki Trans (2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91ae5630e73c5aef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Read Me/Préambule au Wiki Trans (2024).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Read Me/Préambule au Wiki Trans (2024).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Read Me/Préambule au Wiki Trans (2024).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Read Me/Préambule au Wiki Trans (2024).md"
+                "file": "README.md"
               }
             }
           }
@@ -159,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91ae5630e73c5aef",
+  "active": "5e09e1cff2f30f27",
   "lastOpenFiles": [
-    "0. Read Me/Manifeste.md",
-    "0. Read Me/License de diffusion.md",
+    "Medias/logoTitre.png",
+    "Medias/logoTitre.svg",
+    "Liste des auteur·es.md",
+    "README.md",
+    "Manifeste.md",
+    "Medias/logo.svg",
     "0. Read Me/Préambule au Wiki Trans (2024).md",
+    "0. Read Me/License de diffusion.md",
     "Hormones/THS Féminisant/Anti-androgènes/Androcur.md",
     "Hormones/THS Féminisant/Anti-androgènes",
     "Hormones/THS Féminisant/Anti-androgènes/Flutamide.md",
@@ -179,9 +171,9 @@
     "Hormones/THS Féminisant/Oestrogènes/Implants d’œstrogènes.md",
     "Hormones/THS Féminisant/Oestrogènes/Spray Nasal d’œstrogènes.md",
     "Hormones/THS Féminisant/Oestrogènes/Untitled.md",
-    "0. Read Me/Medias",
+    "Medias",
     "0. Read Me",
-    "0. Read Me/Medias/GUIDE-IM-FLIRT-min.pdf",
+    "Medias/GUIDE-IM-FLIRT-min.pdf",
     "Hormones/THS Féminisant/Oestrogènes",
     "Hormones/THS Féminisant/Oestrogènes/Comprimés d’œstrogènes.md",
     "Hormones/THS Féminisant/Oestrogènes/Gels et patch d’œstrogènes.md",
@@ -189,10 +181,7 @@
     "Hormones/THS Féminisant/Introduction/FAQ du THS Féminisant.md",
     "Hormones/THS Féminisant/Introduction/Les différentes méthodes de THS féminisants.md",
     "Hormones/THS Féminisant/Introduction/Effets du THS féminisant.md",
-    "Hormones/THS Féminisant/Introduction/Principes de base du THS Féminisant.md",
-    "Hormones/THS Féminisant/Introduction/Introduction au THS Féminisant.md",
     "Hormones/THS Féminisant/Introduction",
-    "Hormones/THS Masculinisant/Produits non hormonaux/Minoxidil.md",
     "Hormones/THS Féminisant",
     "Hormones/THS Masculinisant/Produits non hormonaux",
     "Hormones/THS Masculinisant/Testostérone",
