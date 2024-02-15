@@ -1,4 +1,4 @@
-![[logoTitre.png]]
+![Wiki Trans](https://github.com/AgatheMametz/wikitrans/blob/main/Medias/logoTitre.png?raw=true)
 
 ## À propos du Wiki Trans
 
@@ -8,9 +8,9 @@ Le Wiki Trans a été lancé en 2018 suite au constat que très peu de ressource
 
 L’ambition du Wiki Trans est de réunir toutes les ressources nécessaires aux personnes trans afin de les rendre accessible à tous et toutes, à tout moment, en un seul endroit et de manière durable.
 
-URL du site : https://wikitrans.co/
-https://twitter.com/wiki_trans
-https://www.instagram.com/wikitrans.co/
+- URL du site : https://wikitrans.co/
+- https://twitter.com/wiki_trans
+- https://www.instagram.com/wikitrans.co/
 
 ## Le Wiki Trans en 2024
 
