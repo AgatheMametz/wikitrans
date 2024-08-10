@@ -1,8 +1,8 @@
 {
   "name": "wiki-trans",
   "version": "1.0.0",
-  "private": true,  
-  "type": "module", 
+  "private": true,
+  "type": "module",
   "target": "esnext",
   "module": "commonjs",
   "scripts": {

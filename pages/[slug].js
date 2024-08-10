@@ -1,21 +1,23 @@
 // pages/[slug].js
-import { getMarkdownFileData, getAllMarkdownFileNames } from '../lib/markdown.js';
+
+import { getMarkdownFileData, getAllMarkdownFilePaths } from '../lib/markdown';
 
 export async function getStaticPaths() {
-  const fileNames = getAllMarkdownFileNames();
-  const paths = fileNames.map(fileName => ({
-    params: { slug: fileName.replace(/\.md$/, '') },
-  }));
+  const paths = getAllMarkdownFilePaths();
+  console.log('Static paths:', paths); // Affiche les chemins pour débogage
 
   return {
     paths,
-    fallback: false, // ou true si tu veux supporter les chemins non encore générés
-  };
+    fallback: false,
+  }; 
+  
 }
 
 export async function getStaticProps({ params }) {
-  const fileName = `${params.slug}.md`;
-  const { data, content } = getMarkdownFileData(fileName);
+  const filePath = params.slug;
+  const { frontMatter: data, content } = getMarkdownFileData(filePath);
+
+  console.log('Static props data:', { data, content }); // Affiche les données pour débogage
 
   return {
     props: {
