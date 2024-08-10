@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environnement
+.env
+.next
+
+# Build output
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDEs and editors
+.idea/
+.vscode/
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# OS-specific files
+Thumbs.db
