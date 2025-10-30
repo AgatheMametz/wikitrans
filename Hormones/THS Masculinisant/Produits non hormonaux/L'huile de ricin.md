@@ -1,4 +1,4 @@
-# L’huile de ricin
+# L’huile de ricin :)
 
 **✅** **Conseillé :** sans risque pour la santé
 
@@ -14,8 +14,7 @@ Lorsqu’elle est appliquée régulièrement, l’huile de ricin accélère la p
 
 ### **Fiche technique**
 
-|   |   |
-|---|---|
+|||
 |Produits||
 |Dose habituelle|habituellement une à deux fois par jour|
 |Taux sanguins à surveiller|aucun|
