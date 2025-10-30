@@ -1,6 +1,8 @@
 ![Wiki Trans](https://github.com/AgatheMametz/wikitrans/blob/main/Medias/logoTitre.png?raw=true)
 
-## À propos du Wiki Trans
+## À propos du Wiki Trans 
+
+... Attends ça marche ?!
 
 Le Wiki Trans est un portail d’information à destination des personnes trans en questionnement ou en cours de transition, ainsi que leurs proches et leurs allié·e·s.
 
@@ -22,7 +24,7 @@ La communauté trans a toujours fonctionné au bouche à oreille. Même avec les
 
 Le Wiki Trans est l'oeuvre de dizaines de bénévoles ayant passé des journées entières à créer une des documentations les plus complètes en France sur la transidentité. Elle peut et doit servir de base pour construire la prochaine itération de l'outil qui servira aux personnes trans de pouvoir transitionner sans barrière psychologique, administrative, oppressive, financière.
 
-Nous équipe du Wiki Trans sommes fier·es d'avoir contribué à notre façon à l'épanouissement de nos adelphes.  
+Nous équipe du Wiki Trans sommes fier·es d'avoir contribué à notre façon à l'épanouissement de nos adelphes.
 
 ## Où suis-je ?
 
@@ -30,9 +32,10 @@ Vous êtes actuellement en train de visiter la version markdown du site archivé
 
 Depuis toujours le site est hébergé sur mon serveur mutualisé OVH, et malgré toutes les précautions prises pour éviter de perdre les données, je me sens plus rassurée maintenant que cette copie existe sur internet.
 
-La majorité des articles que vous pouvez lire ici ont été écrits entre 2018 et 2021, ont été écrits par de nombreuses mains, et sont tous passés par ma relecture avant d'être publiés. 
+La majorité des articles que vous pouvez lire ici ont été écrits entre 2018 et 2021, ont été écrits par de nombreuses mains, et sont tous passés par ma relecture avant d'être publiés.
 
 ## License de diffusion du Wiki Trans
 
 CC BY-NC-SA 4.0 Deed
+
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International
